@@ -3,7 +3,7 @@ version: 2
 sources:
   - name: jsonplaceholder
     database: WORKSHOP_DB
-    schema: RAW
+    schema: LK_RAW
     description: >
       Raw schema for data from jsonplaceholder api
     tables:
